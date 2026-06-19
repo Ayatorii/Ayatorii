@@ -16,7 +16,9 @@ My focus is on:
 * Level design
 * Experimental gameplay loops
 
-Currently building: 
+**Currently building:**
+
+![ARC Quest](./assets/arc-quest-title.svg)
 
 
 
