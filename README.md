@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi I'm AVE 👋
 
-<!--
-**Ayatorii/Ayatorii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm an AI-native game creator and vibe coder exploring the edge between ideas, mechanics, design, and playable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use GPT, Claude, Codex, and Cursor to turn concepts into prototypes, mechanics, worlds, and experiments.
+
+My focus is on:
+
+* Idle RPGs
+* Clickers
+* Roguelike systems
+* PC / Mobile games
+* Game design
+* Animation
+* Level design
+* Experimental gameplay loops
+
+Currently building **ARC Quest** — an idle RPG / auto-battler shaped around progression, combat, loot, boss encounters, and constant iteration.
+
+I’m not here to pretend I know everything.
+I’m here to build, break, learn, rebuild, and slowly turn chaos into something playable.
+
+**Self-discovery through self-irony.**
+**Self-improvement through pain.**
