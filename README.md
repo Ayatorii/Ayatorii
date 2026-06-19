@@ -16,9 +16,7 @@ My focus is on:
 * Level design
 * Experimental gameplay loops
 
-Currently building:
-
-<svg width="420" height="70" viewBox="0 0 420 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+Currently building: <svg width="420" height="70" viewBox="0 0 420 70" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="420" height="70" rx="16" fill="#0D1117"/>
   <text x="210" y="46"
         text-anchor="middle"
