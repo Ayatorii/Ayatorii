@@ -16,7 +16,9 @@ My focus is on:
 * Level design
 * Experimental gameplay loops
 
-Currently building **ARC Quest** — an idle RPG / auto-battler shaped around progression, combat, loot, boss encounters, and constant iteration.
+Currently building **<p align="center">
+  <img src="./assets/arc-quest-title.svg" alt="ARC Quest" width="320"/>
+</p>** — an idle RPG / auto-battler shaped around progression, combat, loot, boss encounters, and constant iteration.
 
 I’m here to build, break, learn, rebuild, and slowly turn chaos into something playable.
 
