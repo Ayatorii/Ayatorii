@@ -18,7 +18,6 @@ My focus is on:
 
 Currently building **ARC Quest** — an idle RPG / auto-battler shaped around progression, combat, loot, boss encounters, and constant iteration.
 
-I’m not here to pretend I know everything.
 I’m here to build, break, learn, rebuild, and slowly turn chaos into something playable.
 
 **Self-discovery through self-irony.**
