@@ -16,9 +16,24 @@ My focus is on:
 * Level design
 * Experimental gameplay loops
 
-Currently building ** ![ARC Quest](https://img.shields.io/badge/Currently%20Building-ARC%20Quest-FF3131?style=for-the-badge&labelColor=0D1117) ** — an idle RPG / auto-battler shaped around progression, combat, loot, boss encounters, and constant iteration.
+Currently building:
+
+<svg width="420" height="70" viewBox="0 0 420 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="70" rx="16" fill="#0D1117"/>
+  <text x="210" y="46"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="36"
+        font-weight="800"
+        fill="#FF3131">
+    ARC Quest
+  </text>
+</svg>
+
+** An idle RPG / auto-battler shaped around progression, combat, loot, boss encounters, and constant iteration. **
 
 I’m here to build, break, learn, rebuild, and slowly turn chaos into something playable.
 
-**Self-discovery through self-irony.**
-**Self-improvement through pain.**
+
+
+**Self-discovery through self-irony.** **Self-improvement through pain.**
