@@ -3,7 +3,7 @@
 
 I'm an AI-native game creator and vibe coder exploring the edge between ideas, mechanics, design, and playable systems.
 
-I use GPT, Claude, Codex, and Cursor to turn concepts into prototypes, mechanics, worlds, and experiments.
+I use GPT 5.5+Codex to turn concepts into prototypes, mechanics, worlds, and experiments.
 
 My focus is on:
 
